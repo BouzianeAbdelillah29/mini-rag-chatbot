@@ -1,0 +1,53 @@
+# Université Nour - corpus de FAQ d'exemple (français)
+# Un bloc question-réponse par paragraphe ; les blocs deviennent des chunks au chargement.
+
+Q : Quelle est la date limite de candidature pour le semestre d'automne ?
+R : La date limite de candidature pour le semestre d'automne est le 15 juin. Les dossiers tardifs sont acceptés jusqu'au 30 juin avec des frais de retard de 50 USD.
+
+Q : Combien coûte une heure de crédit pour les étudiants internationaux ?
+R : Les étudiants internationaux paient 420 USD par heure de crédit. Les étudiants nationaux paient 260 USD par heure de crédit.
+
+Q : Quelles bourses l'Université Nour propose-t-elle ?
+R : La bourse d'excellence couvre 30 % des frais de scolarité pour les étudiants ayant une moyenne de 3,5 ou plus. La date limite de candidature est le 1er mai.
+
+Q : Dans quelle langue les cours sont-ils dispensés ?
+R : Les cours d'ingénierie et de commerce sont dispensés en anglais, le droit et les arts en français, et l'éducation en arabe. Le Centre de langues propose des cours de soutien dans les trois langues.
+
+Q : Où se trouve le campus ?
+R : Le campus se situe au 24 avenue des Cedres, Casablanca. Le portail principal est ouvert de 7:00 à 21:00.
+
+Q : Comment demander un logement étudiant ?
+R : Déposez le formulaire de logement avant le 30 juin. Les chambres sur le campus coûtent 350 USD par mois et les étudiants internationaux de première année sont prioritaires.
+
+Q : Combien de temps faut-il pour obtenir la lettre de visa ?
+R : Le Bureau international délivre la lettre de soutien au visa sous 5 jours ouvrables. Les étudiants doivent déposer leur demande au moins 3 mois avant le début du semestre.
+
+Q : Quels sont les horaires d'ouverture de la bibliothèque ?
+R : La bibliothèque est ouverte du lundi au vendredi de 8:00 à 22:00 et le samedi de 9:00 à 18:00. Elle est fermée le dimanche, mais la bibliothèque numérique est accessible 24h/24.
+
+Q : Que faire si je manque un examen ?
+R : Demandez un examen de rattrapage dans les 48 heures et joignez un certificat médical. Des frais de 40 USD s'appliquent.
+
+Q : Comment fonctionne le système de notation ?
+R : A correspond à 90-100, B à 80-89, C à 70-79, D à 60-69 et F à moins de 60. La moyenne pondérée est calculée sur une échelle de 4,0.
+
+Q : Puis-je transférer des crédits d'une autre université ?
+R : Oui. Vous pouvez transférer jusqu'à 30 crédits. Présentez des relevés de notes officiels et les descriptions des cours ; l'examen du dossier prend 3 semaines.
+
+Q : Un stage est-il obligatoire pour la licence ?
+R : Oui. Les étudiants en licence effectuent 120 heures de stage. Le Centre de carrières doit approuver le stage un mois avant son début.
+
+Q : Comment contacter le bureau des admissions ?
+R : Écrivez à admissions@nour-university.edu ou appelez le +212 5 22 00 11 22. Le bureau est ouvert du lundi au vendredi, de 9:00 à 16:00.
+
+Q : Quand commence l'année universitaire ?
+R : Le semestre d'automne commence le 15 septembre, le semestre de printemps le 2 février et la session d'été le 1er juillet.
+
+Q : Puis-je étudier à temps partiel ?
+R : Oui. Les étudiants à temps partiel suivent au maximum 6 crédits par semestre et assistent aux cours du soir.
+
+Q : Y a-t-il des clubs étudiants ?
+R : L'Université Nour compte 24 clubs étudiants, dont la robotique, le débat et le cinéma. Les étudiants peuvent s'inscrire pendant la semaine d'orientation.
+
+Q : L'université propose-t-elle un soutien psychologique ?
+R : Oui. Le Centre d'écoute propose un soutien gratuit et confidentiel. Les étudiants peuvent réserver jusqu'à quatre séances par semestre en écrivant à counseling@nour-university.edu.

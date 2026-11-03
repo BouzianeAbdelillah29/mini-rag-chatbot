@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Streamlit cache and local config
+.streamlit/
+.cache/

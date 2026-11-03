@@ -1,0 +1,53 @@
+# Nour University - Sample FAQ corpus (English)
+# One Q&A block per paragraph; blocks are split into retrieval chunks at runtime.
+
+Q: When is the application deadline for the fall semester?
+A: The application deadline for the fall semester is 15 June. Late applications are accepted until 30 June with an additional 50 USD late fee.
+
+Q: How much does one credit hour cost for international students?
+A: International students pay 420 USD per credit hour. National students pay 260 USD per credit hour.
+
+Q: What scholarships does Nour University offer?
+A: The Merit Scholarship covers 30% of tuition for students with a GPA of 3.5 or higher. The application deadline is 1 May.
+
+Q: In which language are the courses taught?
+A: Engineering and business courses are taught in English, law and arts in French, and education in Arabic. The Language Centre offers support classes in all three languages.
+
+Q: Where is the campus located?
+A: The campus is at 24 Avenue des Cedres, Casablanca. The main gate is open from 7:00 to 21:00.
+
+Q: How can I apply for student housing?
+A: Submit the housing form by 30 June. On-campus rooms cost 350 USD per month, and first-year international students receive priority.
+
+Q: How long does a student visa letter take?
+A: The International Office issues the visa support letter within 5 working days. Students should apply at least 3 months before the semester starts.
+
+Q: What are the library opening hours?
+A: The library is open Monday to Friday from 8:00 to 22:00 and Saturday from 9:00 to 18:00. It is closed on Sunday, but the digital library is available 24/7.
+
+Q: What should I do if I miss an exam?
+A: Request a make-up exam within 48 hours and attach a medical certificate. A make-up exam fee of 40 USD applies.
+
+Q: How does the grading scale work?
+A: A is 90-100, B is 80-89, C is 70-79, D is 60-69, and F is below 60. Grade point averages are calculated on a 4.0 scale.
+
+Q: Can I transfer credits from another university?
+A: Yes. You can transfer up to 30 credits. Submit official transcripts and course descriptions; the review takes 3 weeks.
+
+Q: Is an internship required for the bachelor's degree?
+A: Yes. Bachelor's students complete 120 hours of internship. The Career Centre must approve the placement one month before it starts.
+
+Q: How do I contact the admissions office?
+A: Email admissions@nour-university.edu or call +212 5 22 00 11 22. The office is open Monday to Friday, 9:00 to 16:00.
+
+Q: When does the academic year start?
+A: The fall semester begins on 15 September, the spring semester on 2 February, and the summer session on 1 July.
+
+Q: Can I study part-time?
+A: Yes. Part-time students take a maximum of 6 credits per semester and attend evening classes.
+
+Q: Are there student clubs?
+A: Nour University has 24 student clubs, including robotics, debate and film. Students can join during orientation week.
+
+Q: Does the university offer psychological support?
+A: Yes. The Counseling Centre offers free and confidential support. Students can book up to four sessions per semester by emailing counseling@nour-university.edu.
